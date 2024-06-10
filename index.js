@@ -1,1 +1,1 @@
-console.log(“OLA MUNDÃO”)
+console.log('OLA MUNDÃO')
